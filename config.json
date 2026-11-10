@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-data-persistence",
+      "title": "Primeiro Banco de Dados com SQLite",
+      "description": "Persist book catalog data with Python's built-in sqlite3 module.",
+      "path": "assignments/sqlite-data-persistence",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
